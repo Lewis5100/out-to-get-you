@@ -27,4 +27,4 @@ if (mouse_check_button(mb_left)) && (cooldown < 1)
 {
     instance_create_layer(x, y, "BulletsLayer", obj_bullet);
     cooldown = 3; } 
-cooldown = cooldown - 10;  
+cooldown = cooldown - 1;  
