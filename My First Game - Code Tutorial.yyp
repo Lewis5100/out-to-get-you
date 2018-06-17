@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "325b2227-8b9f-4e5f-be59-d301ead7032a",
+            "Value": {
+                "id": "6e499bb2-f931-44a1-9405-9a1ff126b598",
+                "resourcePath": "objects\\obj_bounce1\\obj_bounce1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3d8ae9c5-aff9-40dd-81e7-26048e57454a",
             "Value": {
                 "id": "87006697-2390-41e7-91ad-0ceb31deef23",
@@ -180,6 +188,22 @@
                 "id": "16c78e62-378c-4840-b590-042cef22dda7",
                 "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "76800c4b-4165-44c9-96dc-6cdbbef4a8a0",
+            "Value": {
+                "id": "069a2ae1-70af-42d2-8770-4781f2402c8e",
+                "resourcePath": "objects\\obj_bounce\\obj_bounce.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "79366c5f-5d8f-4d8c-bd31-c25f95e645ca",
+            "Value": {
+                "id": "177983c9-d91a-40b7-aba0-d125047f9f97",
+                "resourcePath": "sprites\\sprite5\\sprite5.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -263,11 +287,35 @@
             }
         },
         {
+            "Key": "ea0dee60-ebdc-46b4-afd9-cf812b185577",
+            "Value": {
+                "id": "a6a9b796-59be-48f4-84e8-4cfe46bbb7cd",
+                "resourcePath": "sprites\\spr_bullet1\\spr_bullet1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "eb08b3a3-c522-4c45-bd66-9e899fc4f6f2",
+            "Value": {
+                "id": "eda91258-526c-40e0-98a6-6451f4f51efc",
+                "resourcePath": "objects\\obj_bounce3\\obj_bounce3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ee0280ff-af85-46c4-85c8-8df61e0e225c",
             "Value": {
                 "id": "5858e76f-77c4-47d6-b531-25d1b60f50fc",
                 "resourcePath": "rooms\\room1\\room1.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "f8cc8db4-c121-4a0b-9ed0-01bdc5bdd962",
+            "Value": {
+                "id": "bb6e3da1-485a-4141-b620-c83660c90fa0",
+                "resourcePath": "objects\\obj_bullet1\\obj_bullet1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
